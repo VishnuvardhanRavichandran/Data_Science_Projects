@@ -1,0 +1,1 @@
+This is a EDA data science project based on a youtube dataset. The dataset has four columns (title,link,description and category). I have imported the data , did some data cleaning and have done some visualisation for the topic related.
